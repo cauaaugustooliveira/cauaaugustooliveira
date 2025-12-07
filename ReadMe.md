@@ -26,8 +26,9 @@
 
 ## ✍️ Peak Writing
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </div>
+
 ## 🤝 Support Me
 If any of my projects helped you or saved you from a headache, feel free to send me a coffee through Pix (Dev life XP +10).  
 *Still picking a platform for donations — coming soon!*
