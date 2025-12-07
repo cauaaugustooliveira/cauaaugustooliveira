@@ -21,6 +21,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cauaaugustooliveira &icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤝 Support Me
+If any of my projects helped you or saved you from a headache, feel free to send me a coffee through Pix (Dev life XP +10).  
+*Still picking a platform for donations — coming soon!*
