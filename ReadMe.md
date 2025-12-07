@@ -1,5 +1,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"><br><br> I'm Cauã, and this is my profile!<br>
-<img align="right" src="./assets/rem-re-zero.gif" width="150" style="margin-top: -50px;">
+<div style="float: right; margin-top: -30px;">
+  <img src="./assets/rem-re-zero.gif" width="150">
+</div>
 
 👨‍💻 Developer focused on backend and game dev  
 📘 Currently studying: Java  
