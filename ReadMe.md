@@ -1,4 +1,4 @@
-# Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"><br><br> I'm Cauã<br>
+# Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"><br><br> I'm Cauã, and this is my profile!<br>
 - 👨‍💻 Developer focused on backend and game dev<br>
 - 📘 Currently studying: Java<br>
 - 🛠️ Technologies: Java | C# | Git | MySQL | Unity | Spigot | .NET<br>
