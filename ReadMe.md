@@ -8,8 +8,7 @@
     🚀 Always striving to improve and build increasingly professional projects
   </div>
 
-  <img src="https://imgs.search.brave.com/qpWM5MvdOMOIDEBbkaLOLu2if8LT-QkbEtVtXjnChqI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS50ZW5vci5jb20vTVY2OTg5VFBnUzRBQUFBbS9yZW0tcmUtemVyby53ZWJw" 
-       width="130">
+  <img src="[https://imgs.search.brave.com/qpWM5MvdOMOIDEBbkaLOLu2if8LT-QkbEtVtXjnChqI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS50ZW5vci5jb20vTVY2OTg5VFBnUzRBQUFBbS9yZW0tcmUtemVyby53ZWJw](https://imgs.search.brave.com/qpWM5MvdOMOIDEBbkaLOLu2if8LT-QkbEtVtXjnChqI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TXY2OTg5VFBnUzRB/QUFBbS9yZW0tcmUt/emVyby53ZWJw)" width="130">
 </div>
 
 
