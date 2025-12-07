@@ -1,13 +1,12 @@
 # Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"><br><br> I'm Cauã, and this is my profile!<br>
-<div style="float: right; margin-top: -30px;">
-  <img src="./assets/rem-re-zero.gif" width="150">
-</div>
+<img src="./assets/rem-re-zero.gif" align="right" width="150" style="margin-top:-20px;">
 
 👨‍💻 Developer focused on backend and game dev  
 📘 Currently studying: Java  
-🛠️ Technologies: Java \| C\# \| Git \| MySQL \| Unity \| Spigot \| .NET  
+🛠️ Technologies: Java | C# | Git | MySQL | Unity | Spigot | .NET  
 🎮 I work on projects such as Minecraft plugins, 2D games, and Gamification systems!  
 🚀 Always striving to improve and build increasingly professional projects  
+
 
 
 
