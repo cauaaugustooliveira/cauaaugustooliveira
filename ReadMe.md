@@ -22,7 +22,7 @@
 </p>
 
 
-### ✍️ Random Dev Quote
+### ✍️ Peak Writing
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
