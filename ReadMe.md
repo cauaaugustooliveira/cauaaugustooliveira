@@ -13,6 +13,9 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=cauaaugustooliveira&theme=tokyonight&show_icons=true" height="160">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=cauaaugustooliveira&layout=compact&theme=tokyonight" height="150">
+</p>
 
 
 ### ✍️ Random Dev Quote
