@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"><br><br> I'm Cauã, and this is my profile!<br>
-<img align="right" src="https://imgs.search.brave.com/qpWM5MvdOMOIDEBbkaLOLu2if8LT-QkbEtVXjnChqI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWdpYS50ZW5vci5jb20vTVY2OTg5VFBnUzRBQUFBbS9yZW0tcmUtemVyby53ZWJw" width="150">
+<img align="right" src="./assets/rem-re-zero.gif" width="150">
 
 👨‍💻 Developer focused on backend and game dev  
 📘 Currently studying: Java  
