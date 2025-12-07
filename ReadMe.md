@@ -1,9 +1,17 @@
 # Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"><br><br> I'm Cauã, and this is my profile!<br>
-- 👨‍💻 Developer focused on backend and game dev<br>
-- 📘 Currently studying: Java<br>
-- 🛠️ Technologies: Java | C# | Git | MySQL | Unity | Spigot | .NET<br>
-- 🎮 I work on projects such as Minecraft plugins, 2D games, and Gamification systems!<br>
-- 🚀 Always striving to improve and build increasingly professional projects
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    👨‍💻 Developer focused on backend and game dev<br>
+    📘 Currently studying: Java<br>
+    🛠️ Technologies: Java | C# | Git | MySQL | Unity | Spigot | .NET<br>
+    🎮 I work on projects such as Minecraft plugins, 2D games, and Gamification systems!<br>
+    🚀 Always striving to improve and build increasingly professional projects
+  </div>
+
+  <img src="https://imgs.search.brave.com/qpWM5MvdOMOIDEBbkaLOLu2if8LT-QkbEtVtXjnChqI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS50ZW5vci5jb20vTVY2OTg5VFBnUzRBQUFBbS9yZW0tcmUtemVyby53ZWJw" 
+       width="130">
+</div>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/orepton) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deoliveiracauaugusto@gmail.com) 
