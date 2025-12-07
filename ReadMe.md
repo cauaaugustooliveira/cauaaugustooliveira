@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋 Hello! I'm Cauã<br><br>
+# 👋 Hello! I'm Cauã<br><br>
 - 👨‍💻 Developer focused on backend and game dev<br>
 - 📘 Currently studying: Java<br>
 - 🛠️ Technologies: Java | C# | Git | MySQL | Unity | Spigot | .NET<br>
