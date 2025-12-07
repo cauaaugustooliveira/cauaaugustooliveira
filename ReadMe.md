@@ -10,11 +10,6 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cauaaugustooliveira&theme=tokyonight&show_icons=true" height="160">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cauaaugustooliveira&theme=tokyonight" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaaugustooliveira&layout=compact&theme=tokyonight" height="150">
 </p>
 
 
