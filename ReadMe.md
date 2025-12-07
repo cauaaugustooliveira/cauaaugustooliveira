@@ -1,15 +1,12 @@
 # Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"><br><br> I'm Cauã, and this is my profile!<br>
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    👨‍💻 Developer focused on backend and game dev<br>
-    📘 Currently studying: Java<br>
-    🛠️ Technologies: Java | C# | Git | MySQL | Unity | Spigot | .NET<br>
-    🎮 I work on projects such as Minecraft plugins, 2D games, and Gamification systems!<br>
-    🚀 Always striving to improve and build increasingly professional projects
-  </div>
+<img align="right" src="https://imgs.search.brave.com/qpWM5MvdOMOIDEBbkaLOLu2if8LT-QkbEtVXjnChqI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWdpYS50ZW5vci5jb20vTVY2OTg5VFBnUzRBQUFBbS9yZW0tcmUtemVyby53ZWJw" width="150">
 
-  <img src="[https://imgs.search.brave.com/qpWM5MvdOMOIDEBbkaLOLu2if8LT-QkbEtVtXjnChqI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS50ZW5vci5jb20vTVY2OTg5VFBnUzRBQUFBbS9yZW0tcmUtemVyby53ZWJw](https://imgs.search.brave.com/qpWM5MvdOMOIDEBbkaLOLu2if8LT-QkbEtVtXjnChqI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TXY2OTg5VFBnUzRB/QUFBbS9yZW0tcmUt/emVyby53ZWJw)" width="130">
-</div>
+👨‍💻 Developer focused on backend and game dev  
+📘 Currently studying: Java  
+🛠️ Technologies: Java \| C\# \| Git \| MySQL \| Unity \| Spigot \| .NET  
+🎮 I work on projects such as Minecraft plugins, 2D games, and Gamification systems!  
+🚀 Always striving to improve and build increasingly professional projects  
+
 
 
 ## 🌐 Socials:
