@@ -1,4 +1,4 @@
-# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><br><br> I'm Cauã<br>
+# Hello! <img src="https://raw.githubusercontent.com/thisisabhinay/thisisabhinay/main/wave.gif" width="30"><br><br> I'm Cauã<br>
 - 👨‍💻 Developer focused on backend and game dev<br>
 - 📘 Currently studying: Java<br>
 - 🛠️ Technologies: Java | C# | Git | MySQL | Unity | Spigot | .NET<br>
