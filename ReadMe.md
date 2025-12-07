@@ -1,6 +1,10 @@
 # 💫 About Me:
-## 👋 Olá! Eu sou o Cauã<br><br>- 👨‍💻 Desenvolvedor focado em backend e game dev  <br>- 📘 Estudando atualmente: Java<br>- 🛠️ Tecnologias: Java | C# | Git | MySQL | Unity | Spigot | .NET <br>- 🎮 Trabalho em projetos como plugins de Minecraft, jogos 2D e Gamificações! <br>- 🚀 Buscando evoluir e criar projetos cada vez mais profissionais  
-
+## 👋 Hello! I'm Cauã<br><br>
+- 👨‍💻 Developer focused on backend and game dev<br>
+- 📘 Currently studying: Java<br>
+- 🛠️ Technologies: Java | C# | Git | MySQL | Unity | Spigot | .NET<br>
+- 🎮 I work on projects such as Minecraft plugins, 2D games, and Gamification systems!<br>
+- 🚀 Always striving to improve and build increasingly professional projects
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/orepton) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deoliveiracauaugusto@gmail.com) 
