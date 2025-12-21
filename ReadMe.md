@@ -4,7 +4,7 @@
 - 👨‍💻 Developer focused on backend and game dev  
 - 📘 Currently studying: Java  
 - 🛠️ Technologies: Java | C# | Git | MySQL | Unity | Spigot | .NET  
-- 🎮 I work on projects such as Minecraft plugins, 2D games, and Gamification systems!  
+- 🎮 I work on projects such as Minecraft plugins, 2D/3D games, and Gamification systems!  
 - 🚀 Always striving to improve and build increasingly professional projects  
 
 ## 🌐 Socials:
