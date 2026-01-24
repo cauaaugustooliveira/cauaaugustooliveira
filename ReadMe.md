@@ -15,7 +15,6 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cauaaugustooliveira&theme=tokyonight" height="160">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=cauaaugustooliveira&theme=tokyonight&show_icons=true" height="160">
 </p>
 
